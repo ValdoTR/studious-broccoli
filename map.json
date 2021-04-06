@@ -898,7 +898,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"test_tile-set.png",
+         "image":"test_tile_set.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
