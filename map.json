@@ -351,7 +351,7 @@
         {
          "columns":18,
          "firstgid":1321,
-         "image":"tf_beach_tileset\/beach_tileset.png",
+         "image":"beach_tileset.png",
          "imageheight":416,
          "imagewidth":576,
          "margin":0,
@@ -364,7 +364,7 @@
         {
          "columns":2,
          "firstgid":1555,
-         "image":"Pipoya RPG Tileset 32x32\/[A]_type2\/[A]Grass3_pipo.png",
+         "image":"[A]Grass3_pipo.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -377,7 +377,7 @@
         {
          "columns":8,
          "firstgid":1561,
-         "image":"Pipoya RPG Tileset 32x32\/[A]_type3\/[A]Grass1-Dirt4_pipo.png",
+         "image":"[A]Grass1-Dirt4_pipo.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
