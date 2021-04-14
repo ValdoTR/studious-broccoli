@@ -158,7 +158,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/barn.json"
+                 "value":".\/session_1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
