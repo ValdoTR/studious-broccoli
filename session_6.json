@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map_dsee.json#out_session6"
+                 "value":".\/dsee.json#out_session6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,6 +301,15 @@
                 }, 
                 {
                  "id":382,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":398,
                  "properties":[
                         {
                          "name":"collides",
