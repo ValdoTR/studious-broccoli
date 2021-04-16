@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/dsee.json#out_session5"
+                 "value":".\/map_dsee.json#out_session5"
                 }],
          "type":"tilelayer",
          "visible":true,

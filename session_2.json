@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/dsee.json#out_session2"
+                 "value":".\/map_dsee.json#out_session2"
                 }],
          "type":"tilelayer",
          "visible":true,
