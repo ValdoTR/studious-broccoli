@@ -13,6 +13,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"dsee_session4"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
                 }],
          "type":"tilelayer",
          "visible":true,

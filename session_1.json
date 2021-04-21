@@ -31,6 +31,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"dsee_session1"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -93,6 +98,11 @@
          "name":"jitsiRoom",
          "type":"string",
          "value":"dsee_session1"
+        }, 
+        {
+         "name":"jitsiRoomAdminTag",
+         "type":"string",
+         "value":"speaker"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
